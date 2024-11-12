@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242475799966",
+    "project_id": "snikerapp-beef6",
+    "storage_bucket": "snikerapp-beef6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242475799966:android:734b7ac39b73c9997cb28f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6Otd8nxd7L7ZXd3XP8nHiLb5T8q32HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
